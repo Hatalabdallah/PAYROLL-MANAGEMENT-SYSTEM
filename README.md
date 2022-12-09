@@ -15,13 +15,12 @@ The system comprises of 1 major module with their sub-modules as follows:
         ◦ Manage Employee: HR can manage employee’s details.
 
 
-**
-Project Lifecycle:**
+**Project Lifecycle:**
 
     Description
     The waterfall Model is a linear sequential flow. In which progress is seen as flowing steadily downwards (like a waterfall) through the phases of software implementation. This means that any phase in the development process begins only if the previous phase is complete. The waterfall approach does not define the process to go back to the previous phase to handle changes in requirement. The waterfall approach is the earliest approach that was used for software development.
     
-    ![waterfloor](https://user-images.githubusercontent.com/45793333/206805271-49917155-c6e6-45dc-bea1-6edfe2a3ae97.jpg)
+   ![waterfloor](https://user-images.githubusercontent.com/45793333/206805271-49917155-c6e6-45dc-bea1-6edfe2a3ae97.jpg)
 
 
 
